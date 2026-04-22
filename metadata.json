@@ -1,0 +1,6 @@
+{
+  "name": "Remix: FaceBlocker Pro",
+  "description": "Upload images to automatically generate side-by-side versions where the left face is blocked by a red rectangle. Supports batch upload and download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
